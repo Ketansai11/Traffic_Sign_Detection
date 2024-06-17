@@ -1,5 +1,7 @@
 # YOLO-V9 for Traffic Sign Detection
 
+This repository contains a Jupyter Notebook that demonstrates how to use the YOLO-V9 (You Only Look Once, Version 9) model for detecting traffic signs in images. The notebook includes steps to set up the environment, download necessary datasets and model weights, and perform inference and training using YOLO-V9.
+
 # Table of Contents
   1. Before You Start
   2. Clone and Install
